@@ -1,7 +1,12 @@
 package io.softawarriors.springboot;
 
 /**
- * Created by PRANAV on 28/03/18.
- */
+ * Going to the starting point of the Spring Boot Application
+ **/
+
 public class Application {
+
+    public static void main(String... args){
+
+    }
 }
