@@ -1,0 +1,1 @@
+Start the application by running the class annotated with SpringBootApplication
