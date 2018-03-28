@@ -16,4 +16,12 @@
         <version>1.5.10.RELEASE</version>
     </parent>
 
+
+    <dependencies>
+        <!--Meta/wrapper dependency that is useful to build spring boot web application  -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-bbot-starter-web</artifactId>
+        </dependency>
+    </dependencies>
 </project>
